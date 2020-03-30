@@ -18,7 +18,9 @@ Please clone and star this repo to stay up to date on changes.
 
 ## Tutorials
 
-**045 - Firebase and Flutter Pat 8 - Realtime Pagineted Data using Firestore** \[ [Video](https://youtu.be/1chV50D5BVU) \] \[ [Written](https://www.filledstacks.com/post/how-to-perform-real-time-pagination-with-firestore/) \] - This tutorial shows the implementation of getting real time firebase data when impelementing an infinte scrolling view.
+**046 - Firebase and Flutter Part 9 - Dynamic Links in Flutter** \[ [Video](https://youtu.be/aBrRJqrQTpQ) \] \[ [Written](https://www.filledstacks.com/post/dynamic-links-in-flutter-a-complete-guide/) \] - This tutorial covers the use of dynamic links in flutter to perform auto routing and deep linking.
+
+**045 - Firebase and Flutter Part 8 - Realtime Paginated Data using Firestore** \[ [Video](https://youtu.be/1chV50D5BVU) \] \[ [Written](https://www.filledstacks.com/post/how-to-perform-real-time-pagination-with-firestore/) \] - This tutorial shows the implementation of getting real time firebase data when impelementing an infinte scrolling view.
 
 **044 - Firebase and Flutter Part 7 - Analytics** \[ [Video](https://youtu.be/31KpJXqCayo) \] \[ [Written](https://www.filledstacks.com/post/firebase-analytics-and-metrics-in-flutter/) \] - This tutorial shows you how to add analytics into your Flutter app for live monitoring of your users.
 
